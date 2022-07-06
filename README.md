@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Dhiman</h1>
-<h3 align="center">Programmer | Software Developer | Intern at Wipro </h3>
+<h3 align="center">Programmer | SDE 1 @ Byteridge |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarundhiman85&label=Profile%20views&color=0e75b6&style=flat" alt="tarundhiman85" /> </p>
 
