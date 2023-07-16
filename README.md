@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarundhiman85&label=Profile%20views&color=0e75b6&style=flat" alt="tarundhiman85" /> </p>
 
 
-- 💬 Ask me about **Java, Data Structures, Spring Boot, Hibernate, React**
+- 💬 Ask me about **ReactJS, NodeJs, Java, Data Structures, Spring Boot, Hibernate**
 
 - 📫 How to reach me **tarundhiman8572@gmail.com**
 
