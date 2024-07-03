@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Dhiman</h1>
-<h3 align="center">Programmer | SDE 1 @ Byteridge </h3>
+<h3 align="center">Programmer | SDE 1 @ Byteridge  | AWS Certified Developer </h3>
 
 - 💬 Ask me about **ReactJS, NodeJs, Java, Data Structures, Spring Boot, Hibernate**
 
@@ -10,7 +10,11 @@
 <a href="https://linkedin.com/in/tarun-dhiman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-dhiman01" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tarundhiman85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarundhiman85" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tarundhiman85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarundhiman85" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tarundhiman85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tarundhiman85" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/tarundhiman85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tarundhiman85" height="30" width="40" />
+ <a href="https://leetcode.com/u/TarunDhiman1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="TarunDhiman1" height="30" width="40" /></a>
+ <a href="https://www.credly.com/badges/54b8c31b-9bcb-4784-a3fb-19a17a20ef0c/linked_in?t=sfy7xy" target="blank"><img align="center" src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" alt="AWS Certified Developer" height="30" width="40" /></a>
+
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
