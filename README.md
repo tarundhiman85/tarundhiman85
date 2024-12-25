@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Dhiman</h1>
-<h3 align="center">Programmer | SDE 1 @ Byteridge  | AWS Certified Developer </h3>
+<h3 align="center">Programmer | SDE II @ Byteridge  | AWS Certified Developer </h3>
 
 - 💬 Ask me about **ReactJS, NodeJs, Java, Data Structures, Spring Boot, Hibernate**
 
