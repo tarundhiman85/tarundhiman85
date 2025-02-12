@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Dhiman</h1>
 <h3 align="center">Programmer | SDE II @ Byteridge  | AWS Certified Developer </h3>
 
-- 💬 Ask me about **ReactJS, NodeJs, Java, Data Structures, Spring Boot, Hibernate**
+- 💬 Ask me about ** Java, Data Structures, Spring Boot, Hibernate**
 
 - 📫 How to reach me **tarundhiman8572@gmail.com**
 
